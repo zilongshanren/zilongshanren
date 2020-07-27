@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: [<<21天学会Emacs>>](http://book.emacs-china.org/)
+- :orange_book: [<<Learning Emacs in 21 Days>>](http://book.emacs-china.org/)
 - :hammer: Creator of games and tutorials
 - :ram: Founder of [Emacs-China.org](https://emacs-china.org)
 - :meat_on_bone: Hotpot and Emacs
